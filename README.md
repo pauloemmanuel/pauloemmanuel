@@ -52,7 +52,11 @@
 
 ---
 
-### ✨ **Those who carry their own light will never be left in the dark.** ✨
+<div align="center">
+  
+  ✨ **Those who carry their own light will never be left in the dark.** ✨
+  
+</div>
 
 ---
 
