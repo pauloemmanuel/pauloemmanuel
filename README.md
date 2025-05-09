@@ -1,36 +1,62 @@
-## ✨ Olá! Eu sou Paulo Emmanuel, desenvolvedor full-stack ✨
+## ✨ Hello! I’m Paulo Emmanuel, a passionate full-stack developer ✨
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 <div align="center">
-  <a href="https://github.com/pauloemmanuel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloemmanuel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloemmanuel&layout=compact&langs_count=7&theme=dark"/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:2196F3&height=200&section=header&text=Paulo%20Emmanuel&fontSize=40&fontColor=ffffff"/>
+  
+  <h3>🚀 Technologies I work with</h3>
+  
+  <div style="display: inline_block">
+    <img align="center" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Vue.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+    <img align="center" alt="React" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="HTML5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="PHP" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Laravel" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+    <img align="center" alt="Node.js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="PostgreSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  </div>
+  
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vuejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
- 
-  
-          
-          
+
+---
+
+### 🌎 About Me
+
+- 🔭 I’m currently working on **full-stack projects**  
+- 🌱 Always learning **new technologies** and improving my skills  
+- 💬 Ask me about **Laravel, Vue.js, React, Node.js, PHP, PostgreSQL**  
+- ⚡ Fun fact: I love to **mix creativity with code** to bring ideas to life!
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloemmanuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloemmanuel&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-##
-  
-<div> 
 
-  
-  <a href = "mailto:pauloemmanuelferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devpauloemmanuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+---
 
-![Snake animation](https://github.com/pauloemmanuel/pauloemmanuel/blob/output/github-contribution-grid-snake.svg)
- 
+### 📫 Let’s Connect
+
+<div align="center">
+  <a href="mailto:pauloemmanuelferreira@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/devpauloemmanuel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+### ✨ **Those who carry their own light will never be left in the dark.** ✨
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:4CAF50&height=150&section=footer"/>
 </div>
